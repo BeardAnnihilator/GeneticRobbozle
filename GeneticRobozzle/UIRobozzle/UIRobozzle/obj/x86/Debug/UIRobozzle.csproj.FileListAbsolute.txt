@@ -1,0 +1,6 @@
+C:\Users\Periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\UIRobozzle\UIRobozzle\bin\x86\Debug\UIRobozzle.exe
+C:\Users\Periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\UIRobozzle\UIRobozzle\bin\x86\Debug\UIRobozzle.pdb
+C:\Users\Periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\UIRobozzle\UIRobozzle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\UIRobozzle\UIRobozzle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\UIRobozzle\UIRobozzle\obj\x86\Debug\UIRobozzle.exe
+C:\Users\Periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\UIRobozzle\UIRobozzle\obj\x86\Debug\UIRobozzle.pdb

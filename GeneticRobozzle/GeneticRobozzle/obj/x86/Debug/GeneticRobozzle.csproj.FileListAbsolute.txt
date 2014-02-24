@@ -1,0 +1,5 @@
+c:\users\periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\GeneticRobozzle\bin\Debug\GeneticRobozzle.exe
+c:\users\periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\GeneticRobozzle\bin\Debug\GeneticRobozzle.pdb
+c:\users\periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\GeneticRobozzle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\GeneticRobozzle\obj\x86\Debug\GeneticRobozzle.exe
+c:\users\periph_a\documents\visual studio 2010\Projects\GeneticRobozzle\GeneticRobozzle\obj\x86\Debug\GeneticRobozzle.pdb
